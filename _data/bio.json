@@ -119,6 +119,21 @@
   ],
   "volunteer": [
     {
+      "organization": "Notre Dame Mock Trial",
+      "website": "https://www.ndhsguam.com",
+      "position": "Team Captain/Attorney/Witness",
+      "startDate": "2015",
+      "endDate": "2017",
+      "summary": "Work with team to present a fictional, realistic case",
+      "highlights": [
+        "Review case materials and form a strong argument in a short time",
+        "Present prepared arguments to court and effectively improvise counterpoints to opponent arguments",
+        "Communicate constantly with teammates to ensure consistant strategy",
+        "Coordinate fundraisers to pay for team trips to National competition",
+        "2016 and 2017 State Champions"
+      ]
+    },
+    {
       "organization": "University of Guam Professional and International Programs",
       "website": "https://www.uog.edu/professional-international-programs/index.php",
       "position": "Camp Aide",
@@ -139,7 +154,13 @@
       "date": "2017-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who have a GPA of 3.5 or higher and an SAT score of 1280 or higher. Must maintain a 3.0 GPA to keep."
-    }
+    },
+    {
+      "title": "Larry Bakko Professionalism and Civility Award",
+      "date": "2017",
+      "awarder": "Mock Trial National Competition - Hartford, Connecticut",
+      "summary": "Awarded to participants who exemplify professional qualities inside and outside of the courtroom. Winner chosen by MTNC Board and by vote of 49 other state representatives."
+    },
   ],
   "references": [
     {
