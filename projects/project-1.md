@@ -33,6 +33,7 @@ and 314, I don't know if I'll have time!
 The games are mostly simple, but I tried to focus on different elements when making them. One of the games is 3D, for which I created and
 scripted the models, using Unity C# and the Unity API. Due to account restrictions, the games are not on the Google Play App Store, but if
 I can redesign them I will most likely put them there soon. The tools used to create the games were the Unity Engine, Monodevelop, and
-Visual Studio for building, scripting, and compiling, and Blender, Corel Painter, and Audacity for asset creation.
+Visual Studio for building, scripting, and compiling, and Blender, Corel Painter, and Audacity for asset creation. These projects taught me
+alot about design, code style, and the various toolsets I used to complete them.
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
