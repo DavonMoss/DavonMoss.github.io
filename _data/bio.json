@@ -45,12 +45,20 @@
         "Photography",
         "Music Production"
       ]
+    },
+    {
+      "name": "Mobile Development"
+      "keywords": [
+        "Utility Apps",
+        "Mobile Games",
+        "Social Media Development"
+      ]
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Proficient",
       "keywords": [
         "C",
         "C++",
@@ -65,94 +73,48 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "bash",
+        "SSH",
+        "vi/vim",
+        "Visual Studio",
+        "Eclipse"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-08-20",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.27",
       "courses": [
+        "ICS 141: Discrete Mathematics",
+        "ICS 241: Discrete Mathematics II",
+        "ICS 311: Algorithms",
+        "Math 241: Calculus I",
+        "Math 252A: Acclerated Calculus II"
+        "ICS 211: ICS Intro II",
+        "ICS 212: Scripting, C/C++",
+        "ICS 314: Software Engineering"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa College of Education",
+      "position": "Student Technician",
+      "website": "https://tdp.coe.hawaii.edu/",
+      "startDate": "2017-09-16",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Resource Maintenance, Technical Support, Web Administration",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Update, reimage, maintain, and take inventory of COE machines.",
+        "Respond to and troubleshoot faculty and student hardware, software, and networking",
+        "Manage resource and classroom scheduler on website"
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
