@@ -9,7 +9,6 @@ date: 2016-05-27
 labels:
   - Unity
   - Game Development
-  - Blender
   - C#
   - Corel Painter
   - Audacity
