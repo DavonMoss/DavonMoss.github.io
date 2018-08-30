@@ -2,24 +2,31 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Dratini - Music Production
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-08-09
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Ableton
+  - FL Studio
+  - Audacity
+  - AutoDesk Sketchbook
+summary: A compilation of short instrumentals that I produced.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Dratini is a recent compilation of short instrumentals that I released on the music sharing platform SoundCloud. The instrumentals
+consist of various arrangements, including synthesizers, recorded instruments, drums, and sampled audio. The tracks are also mixed and
+mastered by me, for which I used different elements of audio design, such as compression, equalization (EQ), reverberation, waveform
+manipulation, and many more.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Making the songs has been a personal endeavour, and in making them I have learned alot about audio design, as well as how the VST files 
+software work to create the sounds that they do. This has caused me to be interested in developing Music making software, like the
+plugins that I use.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Making the songs and artwork for them is fun, and making the artwork has also taught me a little bit about graphic design. I plan to
+explore that field more as well, because I feel it is not only an important skill for sharing art, but also for promoting a business
+or website. The SoundCloud continues to be updated with new songs as I am able to produce them.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://soundcloud.com/davonmoss/sets/dratini"></i>SOUNDCLOUD</a>
