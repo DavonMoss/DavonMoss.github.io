@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Davon Moss",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/IMG-2680.jpg",
+    "email": "davonm@hawaii.edu",
+    "phone": "808-439-3876",
+    "website": "https://DavonMoss.github.io",
+    "summary": "ICS Student at UH Manoa, graduating 2021. Current Student Tech.",
     "location": {
-      "address": "",
+      "address": "2500 Campus Rd",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,42 +17,33 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "DavonMoss",
+        "url": "http://github.com/DavonMoss"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "davonmoss",
+        "url": "http://linkedin.com/in/davonmoss"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Game Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Unity",
+        "OpenGL",
+        "Game Engine Design"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Creative Software Development",
       "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "Adobe Creative Cloud",
+        "Ableton",
+        "FL Studio",
+        "Photography",
+        "Music Production"
       ]
     }
   ],
@@ -64,9 +55,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
