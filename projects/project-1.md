@@ -2,15 +2,19 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Unity Games
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2016-05-27
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Unity
+  - Game Development
+  - Blender
+  - C#
+  - Corel Painter
+  - Audacity
+  - Blender
+summary: I developed multiple games for Mobile and PC to enter in various game jams.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +24,16 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Unity is a game-engine and API used to develop 2D and 3D games for multiple platforms. My interest in Unity started around the same time
+I began to teach myself coding, as I had used other engines before and wanted to start making apps for my phone. From the summer of 2015
+to around the middle of 2017, I developed several games to enter in game jams and competitions. I uploaded only 1 to gamejolt, as the rest 
+were for the Android platform. They are pictured below, and the link to my first one, on gamejolt, is also linked below. If I could go
+back and rewrite/design them with the knowledge I have now, I would make changes to the functionality and art, but as long as I'm in 311
+and 314, I don't know if I'll have time!
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+The games are mostly simple, but I tried to focus on different elements when making them. One of the games is 3D, for which I created and
+scripted the models, using Unity C# and the Unity API. Due to account restrictions, the games are not on the Google Play App Store, but if
+I can redesign them I will most likely put them there soon. The tools used to create the games were the Unity Engine, Monodevelop, and
+Visual Studio for building, scripting, and compiling, and Blender, Corel Painter, and Audacity for asset creation.
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
