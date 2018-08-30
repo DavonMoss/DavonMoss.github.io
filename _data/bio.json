@@ -119,48 +119,31 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
+      "organization": "University of Guam Professional and International Programs",
+      "website": "https://www.uog.edu/professional-international-programs/index.php",
+      "position": "Camp Aide",
+      "startDate": "Seasonal",
       "endDate": "",
-      "summary": "",
+      "summary": "Counselor for children aged 5-15",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Coordinate field trips and mass excursions",
+        "Maintain reports of day-to-day incidents and communicate them to parents",
+        "Administer first-aid in emergency situations (CPR certified)",
+        "Communicate effectively with coworkers and parents"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Merit Scholarship",
+      "date": "2017-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who have a GPA of 3.5 or higher and an SAT score of 1280 or higher. Must maintain a 3.0 GPA to keep."
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "",
       "reference": ""
     }
   ]
