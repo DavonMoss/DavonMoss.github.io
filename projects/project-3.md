@@ -13,6 +13,8 @@ labels:
   - Marketing
 summary: A small company I formed with other students as a Junior Achievement program.
 ---
+<img class="ui medium right floated rounded image" src="../images/tomodachi.jpg">
+
 Emerge was a company I formed with other students my sophomore year of high school. We sold small, eco-friendly jewelry like bracelets and
 necklaces. The products were locally sourced, and represented cultural elements of our home island of Guam. 
 
