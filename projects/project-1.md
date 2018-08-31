@@ -36,4 +36,4 @@ I can redesign them I will most likely put them there soon. The tools used to cr
 Visual Studio for building, scripting, and compiling, and Blender, Corel Painter, and Audacity for asset creation. These projects taught me
 alot about design, code style, and the various toolsets I used to complete them.
 
-Swirly: <a href="https://https://gamejolt.com/games/swirly/223164">(Very basic, my first game!)</a>
+Swirly: <a href="https://gamejolt.com/games/swirly/223164">(Very basic, my first game!)</a>
