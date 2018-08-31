@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/jaguam.jpg
 title: Emerge
-permalink: projects/cotton
+permalink: projects/jaguam
 # All dates must be YYYY-MM-DD format!
 date: 2015-08-20
 labels:
