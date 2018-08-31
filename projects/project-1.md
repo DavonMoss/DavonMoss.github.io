@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: pooff2.jpg
+image: poof2.jpg
 title: Unity Games
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
