@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/dratini.png
+image: images/dratini.jpg
 title: Dratini - Music Production
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: A compilation of short instrumentals that I produced.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/dratini.png">
+<img class="ui medium right floated rounded image" src="../images/home.jpg">
 
 Dratini is a recent compilation of short instrumentals that I released on the music sharing platform SoundCloud. The instrumentals
 consist of various arrangements, including synthesizers, recorded instruments, drums, and sampled audio. The tracks are also mixed and
