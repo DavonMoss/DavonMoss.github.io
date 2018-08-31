@@ -29,4 +29,4 @@ Making the songs and artwork for them is fun, and making the artwork has also ta
 explore that field more as well, because I feel it is not only an important skill for sharing art, but also for promoting a business
 or website. The SoundCloud continues to be updated with new songs as I am able to produce them.
  
-Source: <a href="https://soundcloud.com/davonmoss/sets/dratini"></i>SOUNDCLOUD</a>
+Source: <a href="https://soundcloud.com/davonmoss/sets/dratini">SOUNDCLOUD</a>
