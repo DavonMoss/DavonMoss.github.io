@@ -18,9 +18,9 @@ summary: I developed multiple games for Mobile and PC to enter in various game j
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/archer.png">
-  <img class="ui image" src="../images/pw.jpg">
-  <img class="ui image" src="../images/pooff.jpg">
-  <img class="ui image" src="../images/pooff2.png">
+  <img class="ui image" src="../images/pw.png">
+  <img class="ui image" src="../images/pooff.png">
+  <img class="ui image" src="../images/poof2.png">
 </div>
 
 Unity is a game-engine and API used to develop 2D and 3D games for multiple platforms. My interest in Unity started around the same time
