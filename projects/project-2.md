@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/dratini.jpg
 title: Dratini - Music Production
-permalink: projects/vacay
+permalink: projects/dratini
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-09
 labels:
