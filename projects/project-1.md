@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/poof22.png
 title: Unity Games
-permalink: projects/micromouse
+permalink: projects/unity
 # All dates must be YYYY-MM-DD format!
 date: 2016-05-27
 labels:
