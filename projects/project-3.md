@@ -25,3 +25,5 @@ marketing responsibilites, I directed the commercial that we released, and led t
 On this project I learned what it takes to make a business succeed, because while we worked well as a team, there were important mistakes
 that we learned from to apply to future endeavours. Companies need teams that are punctual, reliable, and indiviually capable, because when
 tasks arise they should be dealt with immediately and exceptionally.
+
+https://www.facebook.com/JAGuam/
