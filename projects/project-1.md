@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: pooff2.jpg
 title: Unity Games
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
@@ -17,10 +17,10 @@ summary: I developed multiple games for Mobile and PC to enter in various game j
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/archer.png">
+  <img class="ui image" src="../images/pw.jpg">
+  <img class="ui image" src="../images/pooff.jpg">
+  <img class="ui image" src="../images/pooff2.png">
 </div>
 
 Unity is a game-engine and API used to develop 2D and 3D games for multiple platforms. My interest in Unity started around the same time
@@ -35,5 +35,3 @@ scripted the models, using Unity C# and the Unity API. Due to account restrictio
 I can redesign them I will most likely put them there soon. The tools used to create the games were the Unity Engine, Monodevelop, and
 Visual Studio for building, scripting, and compiling, and Blender, Corel Painter, and Audacity for asset creation. These projects taught me
 alot about design, code style, and the various toolsets I used to complete them.
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
