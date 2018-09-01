@@ -63,4 +63,4 @@ API, and all of a sudden it's clear to see that Javascript is the perfect langua
 As I sit atop the mountain, gazing upon the lowlands I formerly inhabited: the Java swamps, C tundras, and C++ jungles, I feel calm.
 This paradise in Javascript, a beautiful and convenient language, is nice, but I know that I would not appreciate nor understand it
 without first having made the journey. Tempting as it may be, Javascript doesn't feel like a final resting place, merely another stop on
-the path. One thing is for certain though, it's definitely one of the more pleasant stops I've made so far.
+the path. One thing is for certain though, it's definitely one of the more pleasant stops I've made along the way.
