@@ -28,18 +28,18 @@ makes a program like this:
 
 function (input)
 {
-  let retVal = 0;
+    let retVal = 0;
 
-  if(input === "foo")
-  {
-    retVal = "bar";
-  }
-  else
-  {
-    retVal += 24;
-  }
+    if(input === "foo")
+    {
+        retVal = "bar";
+    }
+    else
+    {
+        retVal += 24;
+    }
   
-  return retVal;
+    return retVal;
 }
 
 ```
