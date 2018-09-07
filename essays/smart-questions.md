@@ -31,7 +31,7 @@ expect someone else to. So a half-a$$ed, pathetic question is more likely to pis
 I'll show you. Open in a new tab, split the screen, and behold a post which exemplifies the qualities of a good question, and a good
 answer. 
 
-[a link](https://stackoverflow.com/questions/51848999/collatz-conjecture-python-incorrect-output-above-2-trillion-only)
+[Great Example Question](https://stackoverflow.com/questions/51848999/collatz-conjecture-python-incorrect-output-above-2-trillion-only)
 
 Here's why this is so good. First, the title obviously communicates the objective, the problem, and the platform. Just from the title
 you know what tool/software is having the probelm, what the user is generally trying to do but cannot do because they encountered the
@@ -45,7 +45,7 @@ answers.
 
 Absolutely. Go ahead and close that other tab, and pop this one up side by side to see what the problem is.
 
-[a link](https://stackoverflow.com/questions/52215209/feature-creation-cucumber-tests)
+[Yikes...](https://stackoverflow.com/questions/52215209/feature-creation-cucumber-tests)
 
 Unless it has changed since the time of me publishing this essay, our poor friend here has gotten 0 answers. I'm sure you can see why.
 The title is uninformative and vague, yet oddly and esoterically confusing at the same time. The question is worse; it honestly sounds
