@@ -57,6 +57,6 @@ at least figures out the right way to ask someone for help in solving it.
 ## I see. I think I'm ready to start asking smarter questions!
 
 Great! Smarter questions == Smarter answers == completed projects == money. So, go on ahead, use what you've learned to master the help
-forums of the internet. Always research and try a few things yourself first, and when you absolutely need to reach it, make it as easy
+forums of the internet. Always research and try a few things yourself first, and when you absolutely need to reach out, make it as easy
 for people to help you as humanly possible, because inconveniencing someone on their free time means no answer. Good luck, and happy
 forum searching!
