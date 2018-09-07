@@ -28,7 +28,7 @@ expect someone else to. So a half-a$$ed, pathetic question is more likely to pis
 
 ## I didn't know that though, what's a good example of how I should post?
 
-I'll show you. Open the linke below in a new tab, split the screen, and behold a post which exemplifies the qualities of a good
+I'll show you. Open the link below in a new tab, split the screen, and behold a post which exemplifies the qualities of a good
 question, and a good answer. 
 
 [Great Example Question](https://stackoverflow.com/questions/51848999/collatz-conjecture-python-incorrect-output-above-2-trillion-only)
