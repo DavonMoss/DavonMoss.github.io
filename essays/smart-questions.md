@@ -45,7 +45,7 @@ answers.
 
 Absolutely. Go ahead and close that other tab, and pop this one up side by side to see what the problem is.
 
-[Yikes...](https://stackoverflow.com/questions/52215209/feature-creation-cucumber-tests)
+[Get ready...](https://stackoverflow.com/questions/52215209/feature-creation-cucumber-tests)
 
 Unless it has changed since the time of me publishing this essay, our poor friend here has gotten 0 answers. I'm sure you can see why.
 The title is uninformative and vague, yet oddly and esoterically confusing at the same time. The question is worse; it honestly sounds
