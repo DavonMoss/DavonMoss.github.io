@@ -34,7 +34,7 @@ answer.
 [Great Example Question](https://stackoverflow.com/questions/51848999/collatz-conjecture-python-incorrect-output-above-2-trillion-only)
 
 Here's why this is so good. First, the title obviously communicates the objective, the problem, and the platform. Just from the title
-you know what tool/software is having the probelm, what the user is generally trying to do but cannot do because they encountered the
+you know what tool/software is having the problem, what the user is generally trying to do but cannot do because they encountered the
 problem, and, you probably guessed it by now, THE PROBLEM. It's crazy how many posts are some variation of "Help!!". Looking at the post
 itself, the OP provides source code, a list of solutions that he's tried, and an open attitude to criticism of his shortcomings. When he
 comes back to update the post, he does so clearly, and effectively. All of these facets lead to a beautiful answer, one that is also
