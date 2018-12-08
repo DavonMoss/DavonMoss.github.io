@@ -17,7 +17,7 @@ labels:
   - Semantic UI
 summary: A small company I formed with other students as a Junior Achievement program.
 ---
-<img class="ui medium right floated rounded image" src="../images/landing.jpg">
+<img class="ui medium right floated rounded image" src="../images/landing.png">
 
 Postr is the application that I developed with my team of fellow students in ICS 314, as our final project. It is a website whose intention
 is to replace sites like Craigslist and eBay for college students and campuses, and create a safer space where only students are able to
@@ -31,7 +31,7 @@ led to inconsistent communication, confusion on tasks, and nightmarish merging b
 for successful collaborative enterprise development.
 
 Below is a screenshot of the page I implemented:
-<img class="ui medium right floated rounded image" src="../images/M3userhome.jpg">
+<img class="ui medium right floated rounded image" src="../images/M3userhome.png">
 
 <a href="https://github.com/uhmfleamarket/postr-src">Postr Source Code</a>
 <a href="https://github.com/uhmfleamarket/postr/blob/master/index.md">Postr Team Page</a>
