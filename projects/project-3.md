@@ -33,5 +33,5 @@ for successful collaborative enterprise development.
 Below is a screenshot of the page I implemented:
 <img class="ui medium right floated rounded image" src="../images/M3userhome.jpg">
 
-Source: <a href="https://github.com/uhmfleamarket/postr-src">Postr Source Code</a>
-Source: <a href="https://github.com/uhmfleamarket/postr/blob/master/index.md">Postr Team Page</a>
+<a href="https://github.com/uhmfleamarket/postr-src">Postr Source Code</a>
+<a href="https://github.com/uhmfleamarket/postr/blob/master/index.md">Postr Team Page</a>
