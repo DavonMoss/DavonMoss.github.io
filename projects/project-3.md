@@ -1,29 +1,37 @@
 ---
 layout: project
 type: project
-image: images/jaguam.jpg
-title: Emerge
-permalink: projects/jaguam
+image: images/landing.jpg
+title: Postr
+permalink: projects/postr
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-20
+date: 2018-12-06
 labels:
   - Teamwork
-  - Business
-  - Entrepeneurship
-  - Marketing
+  - Web Development
+  - IntelliJ
+  - Source Control
+  - React
+  - Meteor
+  - Mongo
+  - Semantic UI
 summary: A small company I formed with other students as a Junior Achievement program.
 ---
-<img class="ui medium right floated rounded image" src="../images/tomodachi.jpg">
+<img class="ui medium right floated rounded image" src="../images/landing.jpg">
 
-Emerge was a company I formed with other students my sophomore year of high school. We sold small, eco-friendly jewelry like bracelets and
-necklaces. The products were locally sourced, and represented cultural elements of our home island of Guam. 
+Postr is the application that I developed with my team of fellow students in ICS 314, as our final project. It is a website whose intention
+is to replace sites like Craigslist and eBay for college students and campuses, and create a safer space where only students are able to
+buy and sell used items from each other. For the project, I mostly worked on the UI of the website, although I did do a fair amount of 
+backend development in React, Meteor, and MongoDB.
 
-My department was production, although I also played a big role in marketing. For the production crew, we analyzed and executed the most
-efficient and effective production strategies, to ensure we could match the demand for our customers while turning a profit. As for the
-marketing responsibilites, I directed the commercial that we released, and led the design for the company logo.
+While I did learn a lot about the technical aspect of creating a web application, I believe the most important lessons I learned were in
+the importance of communication. We were instructed to use Github for source control, and to meet weekly. We were unable to meet weekly, opting to communicate strictly via text on Slack, and although we did use Github, some of the practices of good software development, 
+(specifically branching our issues off of the correct master branch for smoother merging) were not consistently used. These choices
+led to inconsistent communication, confusion on tasks, and nightmarish merging bugs that we were ultimately unable to fix in time for our presentation. The project was a first-hand experience in what I feel are absolutely essential technical and organizational skills needed
+for successful collaborative enterprise development.
 
-On this project I learned what it takes to make a business succeed, because while we worked well as a team, there were important mistakes
-that we learned from to apply to future endeavours. Companies need teams that are punctual, reliable, and indiviually capable, because when
-tasks arise they should be dealt with immediately and exceptionally.
+Below is a screenshot of the page I implemented:
+<img class="ui medium right floated rounded image" src="../images/M3userhome.jpg">
 
-Source: <a href="https://www.facebook.com/JAGuam/">JA GUAM FACEBOOK</a>
+Source: <a href="https://github.com/uhmfleamarket/postr-src">Postr Source Code</a>
+Source: <a href="https://github.com/uhmfleamarket/postr/blob/master/index.md">Postr Team Page</a>
