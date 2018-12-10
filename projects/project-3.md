@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.jpg
+image: images/landing.png
 title: Postr
 permalink: projects/postr
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ labels:
   - Meteor
   - Mongo
   - Semantic UI
-summary: A small company I formed with other students as a Junior Achievement program.
+summary: An application I developed with a team as our ICS 314 final project.
 ---
 <img class="ui medium right floated rounded image" src="../images/landing.png">
 
